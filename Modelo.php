@@ -16,7 +16,7 @@
 			$this->radio = $ancho/2-30;
 			$this->arrptosext = Array();
 			$this->arrptosint = Array();
-			$ang_rad_ini = 0;		
+			$ang_rad_ini = 0;		  
 			$ang_rad_div = (2*M_PI)/60;
 			$ang_rad_flecha = 10;
 			for($i=0; $i<60; $i++){

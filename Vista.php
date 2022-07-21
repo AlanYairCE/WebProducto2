@@ -13,7 +13,7 @@
 			imagefilledellipse($this->img, $modelo->centrox, $modelo->centroy, $modelo->ancho-30, $modelo->alto-30, $this->negro);
 			imagefilledellipse($this->img, $modelo->centrox, $modelo->centroy, $modelo->ancho-40, $modelo->alto-40, $this->blanco);
 			imagestring($this->img, 15, 270, 65, "1", $this->negro);
-			imagestring($this->img, 15, 325, 110, "2", $this->negro);		
+			imagestring($this->img, 15, 325, 110, "2", $this->negro);		      
 			imagestring($this->img, 15, 350, 195, "3", $this->negro);	
 			imagestring($this->img, 15, 325, 270, "4", $this->negro);	
 			imagestring($this->img, 15, 270, 325, "5", $this->negro);	
